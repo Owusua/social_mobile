@@ -5,7 +5,7 @@ A simple mobile application for writing, reading, editing and deleting messages.
 To run the application on your local machine, follow the steps below:
 
 1. Git clone the application on your machine:
-   git clone https://github.com/social_mobile
+   git clone https://github.com/Owusua/social_mobile.git
 
 2. Visit the expo website to install expo on your computer
 
